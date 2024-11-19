@@ -5,5 +5,4 @@ int b=55;
 System.out.println(a+b);
 
     }
-
 }
