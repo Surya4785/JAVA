@@ -3,6 +3,5 @@ public class Variable2 {
 int a=4;
 int b=55;
 System.out.println(a+b);
-
     }
 }
